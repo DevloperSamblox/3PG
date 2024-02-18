@@ -48,12 +48,8 @@ client.once('ready', () => {
 });
 
 
-//logar
-client.login("MTE5OTE1MzQzNjYzNDEzMjQ4MA.GCdQKW.Rxj0vIkaxsz-rQ3270Sc4z-zI332iWVn4D3w_c").catch(err => {
-    console.log(`Houve um erro na parte da conexão a api \n`.yellow + `${err}`.red)
-})
 
 //logar
-client.login("MTE5OTE1MzQzNjYzNDEzMjQ4MA.GqAa93.vvnErWLXymaG93aj714rCAOGXv7xEXYs8TO41U").catch(err => {
+client.login("MTE5OTE1MzQzNjYzNDEzMjQ4MA.GrBO3B.VqDGlnRQ5HASKDa_4pAnK-4JuIW4uGubaxiXQM").catch(err => {
     console.log(`Houve um erro na parte da conexão a api \n`.yellow + `${err}`.red)
 })
